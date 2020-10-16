@@ -6,6 +6,8 @@ start_x = 550
 start_y = 400
 
 
+
+
 bbox = (start_x, start_y, start_x + 300, start_y + 1)
 
 cords_x = [0, 100, 200, 299]
